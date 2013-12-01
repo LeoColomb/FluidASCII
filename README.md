@@ -1,4 +1,5 @@
-# Most complex ASCII fluid - Honorable mention
+# Most complex ASCII fluid
+Honorable mention
 
 Yusuke Endoh  
 <mame@tsg.ne.jp>  
@@ -6,9 +7,9 @@ Yusuke Endoh
 ## Usage steps:
 
 * `git clone https://github.com/LeoColomb/FluidASCII.git`
-* `cd endoh`
-* `make`
-* `./endoh1 < pour-out.txt`
+* `cd FluidASCII`
+* `make endoh1`
+* `./endoh1 < configuration.txt`
 
 You can also `make endoh1_color` and run this binary instead to get colored output.
 
